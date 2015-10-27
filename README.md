@@ -1,3 +1,4 @@
 # AdWordsReportingScripts
-A script for generating performance reports from AdWords accounts and outputting as a Google spreadsheet. 
-This script uses the APIs for Google AdWords and Google Apps, but since I am currently editing this code within the AdWords editor there is some "background" code that is not included here. An interesting improvement would be to next add the code that enables this to be run outside of that specific environment. 
+these are scripts for doing all sorts of things with AdWords accounts and outputting results into Google spreadsheets. 
+
+this is being run on the AdWords client software. In order to run in it's own environment would require some extra steps. 
