@@ -1,11 +1,11 @@
 /*                    
  * This script outputs a monthly campaign report report
- * to a Google spreadsheet and sends it to alan@webfordoctors.com
+ * to a Google spreadsheet and sends it to alan@yaddayadda.com
  */
 
-var RECIPIENT_EMAIL = "alan@webfordoctors.com";
+var RECIPIENT_EMAIL = "alan@yaddayadda.com";
 
-var SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1WqvMobtwIAVRRBhcnrEzfOTKD2QzGCyFm3UvmfZrWdg/edit#gid=0";
+var SPREADSHEET_URL = ";
 
 var spreadsheetC = SpreadsheetApp.openByUrl(SPREADSHEET_URL).copy('Monthly Campaign Report' + new Date());
 
