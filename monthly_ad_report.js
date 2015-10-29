@@ -1,5 +1,5 @@
 // URL of the default spreadsheet template.
-var SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1vM_OZ_FnAzFa4xxHUJfq_-dqGNOAViOyD6aRpZpjg3c/edit?usp=sharing_eid'
+var SPREADSHEET_URL = ''
 /**                    
  * This script computes an Ad performance report
  * and outputs it to a Google spreadsheet.
