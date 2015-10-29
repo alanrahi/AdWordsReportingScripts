@@ -5,7 +5,7 @@
 
 var RECIPIENT_EMAIL = "alan@yaddayadda.com";
 
-var SPREADSHEET_URL = ";
+var SPREADSHEET_URL = "";
 
 var spreadsheetC = SpreadsheetApp.openByUrl(SPREADSHEET_URL).copy('Monthly Campaign Report' + new Date());
 
